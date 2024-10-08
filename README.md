@@ -4,4 +4,4 @@
 
 # Resultado Final
 
-![imagen](/images/resultado_final.jpg)
+![imagen](/images/resultado_final.png)
