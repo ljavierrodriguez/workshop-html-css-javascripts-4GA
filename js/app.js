@@ -38,8 +38,4 @@ window.onload = () => {
             loader.src = images[rn].url
         }, 3000)
     }
-
-
-
-
 }
